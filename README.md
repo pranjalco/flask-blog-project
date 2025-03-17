@@ -2,7 +2,7 @@
 This **Flask blog application** allows users to register, log in, and create blog posts. It includes **Home, About, and Contact pages**, where users can contact the blogger via email. The project uses a database with **User, BlogPost, and Comment tables**, establishing necessary relationships. Only the **first registered user (admin)** can perform CRUD operations on blog posts. All users can **comment on posts**, and flash messages provide feedback on errors like incorrect login details.  
 
 ## Video
-[![Video Demo](./screenshots/thumbnail.PNG)](https://www.google.com/)
+[![Video Demo](./screenshots/thumbnail.PNG)](https://youtu.be/Z6DqWVMgK14)
 
 ## Author
 Pranjal Sarnaik
